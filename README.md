@@ -24,7 +24,7 @@ http://codeready-codeready.apps.cluster-jpcamel-8899.jpcamel-8899.open.redhat.co
 https://console-openshift-console.apps.cluster-jpcamel-8899.jpcamel-8899.open.redhat.com
 ```
 1. Go to your user project, userX
-1. Go to the Installed Operators and click on Camel K Operator
+1. On the left side of OpenShift console, go to the Catalog -> Installed Operators, and click on Camel K Operator
 1. Click on the Integration Platform
 1. Create Integration Platform by clicking on the button, and save .
 ## Task 3 - First Camel K
