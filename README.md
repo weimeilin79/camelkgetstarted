@@ -56,7 +56,7 @@ Place the following camel route in your configure method and save.
 3. In the terminal, and run the following command in the terminal
 ```
 cd /projects/camelkgetstarted/mycamelk
-bash kamel run FirstCamelK.java --dev
+./kamel run FirstCamelK.java --dev
 ```
 
 4. Change the camel route to following and save, see what is happening in the terminal log!!
